@@ -1,0 +1,19 @@
+{
+  "name": "connect4js",
+  "version": "1.0.0",
+  "description": "A game that transcends space and time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "game",
+    "connect4"
+  ],
+  "author": "nanahb",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
